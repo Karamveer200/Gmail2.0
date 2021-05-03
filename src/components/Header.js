@@ -3,7 +3,8 @@ import MenuIcon from "@material-ui/icons/Menu";
 import ArrowDropDownIcon from "@material-ui/icons/ArrowDropDown";
 import SearchIcon from "@material-ui/icons/Search";
 import NotificationsIcon from "@material-ui/icons/Notifications";
-import { Avatar, IconButton } from "@material-ui/core";
+import { Avatar } from "@material-ui/core";
+import IconButton from "@material-ui/core/IconButton";
 import "./css/Header.css";
 
 function Header() {

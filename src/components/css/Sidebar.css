@@ -5,6 +5,11 @@
   color: gray;
   padding: 10px !important;
   border-radius: 30px !important;
-
+  align-items: center !important;
   box-shadow: 0 2px 7px -1px rgba(0, 0, 0, 1);
+}
+
+.sidebar_footer {
+  display: flex;
+  justify-content: center;
 }
