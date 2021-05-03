@@ -3,6 +3,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 10px 20px;
+  height: 50px;
   border-bottom: 5px solid whitesmoke;
 }
 .headerLeft {
@@ -14,6 +15,7 @@
 
 .img {
   display: flex;
+  cursor: pointer;
 }
 .img > img {
   margin-left: 10px;
@@ -33,9 +35,9 @@
   flex-direction: row;
   flex: 0.7;
   align-items: center;
-  background-color: whitesmoke;
-  padding: 10px;
-  border-radius: 5px;
+  background-color: rgb(233, 232, 232);
+  padding: 7px;
+  border-radius: 35px;
 }
 
 .headerMiddle > .MuiSvgIcon-root {
